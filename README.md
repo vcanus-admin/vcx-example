@@ -1,4 +1,4 @@
-# vcx-nats
+# vcx-example
 
 ## Installation Guide
  - You need pre-installation of https://github.com/vcanus/vcx-project 

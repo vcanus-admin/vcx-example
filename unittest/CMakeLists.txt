@@ -20,6 +20,7 @@ elseif(WIN32)
     SET(LIBDIR ../../../lib_windows)
 
 endif()
+
 SET(INCDIR ../../../include)
 SET(SRC
         ExampleTest.cpp
