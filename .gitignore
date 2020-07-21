@@ -21,3 +21,4 @@ lib
 lib/*
 log
 log/*
+!/unittest/lib
